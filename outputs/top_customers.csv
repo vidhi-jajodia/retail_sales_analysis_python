@@ -1,0 +1,11 @@
+Customer Name,Recency,Frequency,Monetary,R_score,F_score,M_score,RFM_Score,Segment
+Tom Ashbrook,9,80,40489,3,4,4,344,Loyal Customers
+Tamara Chand,28,88,37453,2,4,4,244,Big Spenders
+Greg Tran,9,87,35552,3,4,4,344,Loyal Customers
+Christopher Conant,7,73,35187,4,3,4,434,Loyal Customers
+Sean Miller,22,50,35170,2,1,4,214,Big Spenders
+Bart Watters,55,96,32315,1,4,4,144,Big Spenders
+Natalie Fritzler,2,95,31778,4,4,4,444,Champions
+Fred Hopkins,2,82,30404,4,4,4,444,Champions
+Jane Waco,13,75,30288,3,4,4,344,Loyal Customers
+Hunter Lopez,31,53,30246,2,1,4,214,Big Spenders
