@@ -348,7 +348,7 @@ This project demonstrates:
 
 ### Connect:
 
-* GitHub: [kumawat-sanjay](https://github.com/kumawat-sanjay)
-* LinkedIn: [kumawatsanjay](https://www.linkedin.com/in/kumawatsanjay/)
+* GitHub: [vidhi-jajodia](https://github.com/vidhi-jajodia)
+* LinkedIn: [vidhi-jajodia](https://www.linkedin.com/in/vidhi-jajodia/)
 
 ---
