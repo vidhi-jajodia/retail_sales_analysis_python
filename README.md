@@ -286,18 +286,21 @@ retail-sales-analysis/
 # ▶️ Installation & Execution
 
 ```bash
-# Clone repository
 
-# Navigate to project
+## Steps:
+
+### 1. Clone the repository.
+
+### 2. Navigate to project
 cd retail_sales_analysis_python
 
-# Install dependencies
+### 3. Install dependencies
 pip install -r requirements.txt
 
-# Run analytics pipeline
+### 4. Run analytics pipeline
 python main.py
 
-# Launch dashboard
+### 5. Launch dashboard
 streamlit run StreamlitApp.py
 ```
 
