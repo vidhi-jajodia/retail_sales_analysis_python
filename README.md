@@ -334,8 +334,7 @@ This project demonstrates:
 
 * 🤖 AI-generated narrative insights
 * 📄 PDF executive reports
-* 🌍 Geographic choropleth maps
-* 📈 Prophet / ARIMA forecasting
+* 🌍 Geographic maps
 * 🧠 Customer churn prediction
 * 📦 Inventory optimization
 
