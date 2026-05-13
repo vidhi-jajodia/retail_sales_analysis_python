@@ -287,7 +287,6 @@ retail-sales-analysis/
 
 ```bash
 # Clone repository
-git clone https://github.com/kumawat-sanjay/retail_sales_analysis_python.git
 
 # Navigate to project
 cd retail_sales_analysis_python
