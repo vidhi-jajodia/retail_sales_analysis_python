@@ -344,7 +344,7 @@ This project demonstrates:
 
 # 👨‍💻 Author
 
-## Sanjay Kumawat
+## Vidhi Jajodia
 
 ### Connect:
 
