@@ -1,0 +1,5 @@
+- Revenue is well distributed (Top 10 contribute 2.68%).
+- 677 products are loss-making, impacting profitability.
+- Canada is most profitable region, while Southeast Asia needs improvement.
+- High discounts significantly reduce profit (correlation: -0.32).
+- Sales show an overall upward trend (10.23% avg growth).
