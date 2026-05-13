@@ -328,6 +328,13 @@ This project demonstrates:
 
 ---
 
+## ⚙️ Installation
+git clone ...
+pip install -r requirements.txt
+streamlit run app.py
+
+---
+
 # 🔮 Future Enhancements
 
 ### Planned Upgrades:
