@@ -23,7 +23,7 @@ Enable retail businesses to make smarter, data-driven decisions using advanced a
 # 🌐 Live Dashboard (Streamlit App)
 
 ```bash
-https://retailsalesanalysispython.streamlit.app
+https://vidhi-jajodia-retail-sales-analysis.streamlit.app
 ```
 
 ---
