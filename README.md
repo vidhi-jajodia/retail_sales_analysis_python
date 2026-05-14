@@ -32,13 +32,9 @@ https://retailsalesanalysispython.streamlit.app/
 
 ## Executive Dashboard
 
-![Monthly Sales](screenshots/monthly_sales.png)
+![Dashboard](screenshots/Dashboard.jpg)
 
-## Strategic Insights Dashboard
-
-![Discount Impact](screenshots/discount_impact.png)
-
-## Forecasting Dashboard
+## Next Month Sales Forecast
 
 ![Sales Forecast](screenshots/sales_forecast.png)
 
